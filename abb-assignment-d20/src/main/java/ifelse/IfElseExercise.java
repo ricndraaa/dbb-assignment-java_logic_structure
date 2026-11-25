@@ -1,7 +1,7 @@
 package ifelse;
 import java.util.Scanner;
 
-public class IfElse {
+public class IfElseExercise {
     public static void main(String[] args) {
         int pin = 123456;
         int saldoTersedia = 850000;

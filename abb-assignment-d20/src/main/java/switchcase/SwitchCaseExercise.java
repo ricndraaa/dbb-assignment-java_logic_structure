@@ -2,7 +2,7 @@ package switchcase;
 
 import java.util.Scanner;
 
-public class SwitchCase {
+public class SwitchCaseExercise {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Selamat Datang \n Menu Tersedia:\n 1. Kebab Rp. 10k  \n 2. Berjer Rp. 15k \n 3. Pitsa Rp. 20k \n Silahkan Pilih Pesanan [1-3]: ");

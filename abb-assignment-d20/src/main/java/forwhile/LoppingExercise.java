@@ -2,7 +2,7 @@ package forwhile;
 
 import java.util.Scanner;
 
-public class ForWhile {
+public class LoppingExercise {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int[] harga = {10000,15000,20000};
